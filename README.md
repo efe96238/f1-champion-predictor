@@ -9,8 +9,10 @@ I wrote the code in a JupyterNotebook because when creating models like this, it
 ## Why? Why not?
 
 You might be wondering why I created such model when it is obvious who will win, well I just wanted to test myself.
+A little spoiler: It's Norris.
 
 ## License
 
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
