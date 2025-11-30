@@ -1,6 +1,4 @@
-# Foobar
-
-F1 2025 Champion Predictor
+# F1 2025 Season Champion Predictor
 
 ## Description
 
@@ -13,5 +11,6 @@ I wrote the code in a JupyterNotebook because when creating models like this, it
 You might be wondering why I created such model when it is obvious who will win, well I just wanted to test myself.
 
 ## License
+
 
 [MIT](https://choosealicense.com/licenses/mit/)
